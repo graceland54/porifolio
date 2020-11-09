@@ -18,7 +18,7 @@ https://raw.githack.com/graceland54/porifolio/main/PORTFOLIO/index.html
 - CSS
 
 # Visuals
-![Display_Preview](/PORTFOLIO/asset/images/my portfoliopics.png "page view")
+![Display_Preview](/PORTFOLIO/asset/images/my portfoliopics.png "page_view")
 
 ## Author
 
